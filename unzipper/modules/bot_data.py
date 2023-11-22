@@ -1,4 +1,4 @@
-# Copyright (c) 2023 EDM115
+# Copyright (c) 2023 dev_gagan
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
@@ -71,7 +71,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @dev_gagan if you think this is a mistake, I may unban you.
     """
 
     NEW_USER_BAD = """
@@ -102,7 +102,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by Team SPY**
     """
 
     PROCESSING = "**Processing…**"
@@ -123,7 +123,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel alright"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now ! Join dev_gagan"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -159,7 +159,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+𝙀𝙭𝙩𝙧𝙖𝙘𝙩𝙚𝙙 𝘽𝙮 : 🔥 𝙏𝙚𝙖𝙢 𝙎𝙋𝙔 🔥
     """
 
     URL_UPLOAD = """
@@ -175,7 +175,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @dev_gagan if you think this is a serious error
     """
 
     REPORT_TEXT = """
@@ -208,7 +208,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you couldn’t send any other task 🙂🔫 (may be fixed in the future)
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @dev_gagan if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` files were extracted from that archive"
@@ -246,12 +246,12 @@ Use **/merge** to start one
     ACTUAL_THUMB = "Your actual thumbnail"
 
     START_TEXT = """
-Hi **{}** 👋, I'm **Unarchiver bot** 🥰
+Hi **{}** 👋, I'm **Unarchiver bot made by Gagan** 🥰
 
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by Gagan**
 
 **/donate** if you can 🥺
     """
@@ -274,12 +274,12 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 
 **• Got an error ?**
-    Visit edm115.eu.org/unzip#help
+    Visit dev_gagan.eu.org/unzip#help
 
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@dev_gagan** or join the chat **@dev_gagan**
     """
 
     ABOUT_TXT = """
@@ -287,11 +287,11 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.5](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Source code :** [dev_gagan/unzip-bot](https://github.com/amthespy/unzipp)
+• **Developer :** [dev_gagan](https://github.com/amthespy)
 
 **[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+Made with ❤️ by **dev_gagan**
     """
 
     DONATE_TEXT = """
@@ -303,11 +303,7 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
+• Send Amazon Gift Card to @teamspyhelpbot
 
 Thanks for your contribution 😊
 
@@ -335,7 +331,7 @@ Here's how : Become a VIP user and benefit from extra perks !
 **How to become a VIP ?**
 1) Send **/pay** to the bot
 2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
+3) Send a screenshot of your payment to **@dev_gagan**
 4) Enjoy your VIP perks !
 
 **What happens when my subscription ends ?**
@@ -473,7 +469,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @dev_gagan if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -529,7 +525,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@dev_gagan**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -557,7 +553,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @dev_gagan with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -575,7 +571,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join dev_gagan ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
@@ -685,12 +681,12 @@ It failed 😣 Retry
 If it fails again, it means that {} haven't started the bot yet (or deleted the chat), or he's private/banned/whatever
     """
 
-    REPORT_REPLY = "Reply to a message to report it to @EDM115"
+    REPORT_REPLY = "Reply to a message to report it to @dev_gagan"
 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join **@dev_gagan**)
     """
 
     BAN_ID = "Give an user id to ban 😈"
@@ -829,7 +825,7 @@ Here's all the commands that only the owner (you) can use :
 **/self** : Get full info about me (info returned by Pyrogram)
 **/redbutton** : Will fully restart bot + server
 **/cleanall** : Same as `/clean`, but for the whole server
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@dev_gagan** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : Exports the whole database as CSV
 **/admincmd** : This message
