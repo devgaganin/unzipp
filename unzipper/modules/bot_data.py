@@ -290,7 +290,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 • **Source code :** [dev_gagan/unzip-bot](https://github.com/amthespy/unzipp)
 • **Developer :** [dev_gagan](https://github.com/amthespy)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
+**[Rate me ⭐](https://t.me/dev_gagan)**
 Made with ❤️ by **dev_gagan**
     """
 
