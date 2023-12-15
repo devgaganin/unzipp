@@ -1051,7 +1051,7 @@ class Buttons:
     RATE_ME = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(Messages.RATE, url="https://t.me/BotsArchive/2705"),
+                InlineKeyboardButton(Messages.RATE, url="https://t.me/dev_gagan"),
                 InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback")
             ],
         ]
